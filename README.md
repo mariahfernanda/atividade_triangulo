@@ -1,1 +1,1 @@
-# atividade-tri-ngulo
+# atividade_triangulo
